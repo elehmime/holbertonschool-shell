@@ -1,1 +1,1 @@
-prints current working
+basic shell scripts
